@@ -13,7 +13,7 @@ void takesword(void *arg){
     for(i=0;i<NUM_SWORDS;i++){
         printf("fakir %d has sword %d\n", *((int*)arg), i+1);
     }
-    printf("\a");
+    printf("\n");
     free(arg);
     pthread_mutex_unlock(&mutex);
     pthread_exit(NULL);
@@ -34,6 +34,7 @@ int main(){
             if(ret){
                 strerror_r(ret, msg, SIZE);
                 printf("An error occurred in pthread_create\n");
+                pthread_exit(NULL);
                 exit(1);
             }
         }

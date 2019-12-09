@@ -56,10 +56,12 @@ int esegui( void )
 			sleep(1);
 			printf("padre\n"); fflush(stdout);
 		}
-		/* il padre aspetta la terminazione del figlio */
+		/* il padre aspetta la terminazione del figlio: si mette waitpid dentro
+         * un while perchè per un errore dovuto dalla system call interrupt 
+         * potrebbe ritornare -1. In tal caso basta riprovare ad eseguirla. */
   		do {
 			childpid = waitpid ( pid, &status, 0 /*WNOHANG*/ );
-		} while( (childpid<0) && (errno==EINTR) );
+            } while( (childpid<0) && (errno==EINTR) );
 		if( childpid<0 )	
 		{
 			PrintErrnoAndExit ( "waitpid" );
