@@ -17,7 +17,6 @@ int count_dx= 1;
 int count_sx = 1;
 
 void *clockwise(void *arg){
-    int ncar = (intptr_t)arg;
     int ticket;
     while(1){
         /* i drive around the ring */
@@ -27,26 +26,29 @@ void *clockwise(void *arg){
         count_dx ++;
         pthread_mutex_lock(&mutex);
        
-        while(ticket> current_dx ||  count_dx < count_sx){
+        while(ticket> current_dx ||  count_dx-current_dx < count_sx-current_sx){
             if(ticket > current_dx){
-                printf("sono %" PRIiPTR "(orario) e aspetto perchè il mio turno è: %d mentre quello corrente %d\n", ncar, ticket, current_dx);
+                printf("ORARIO e aspetto perchè il mio turno è: %d mentre quello corrente %d\n", ticket, current_dx);
             }else{
-                printf("sono %" PRIiPTR "(orario) e aspetto perchè count_dx = %d < count_sx = %d\n", ncar, count_dx,  count_sx);
+                printf("ORARIO e aspetto perchè in ORARIO ci sono %d macchine mentre in ANTIORARIO %d\n", count_dx-current_dx, count_sx-current_sx);
             }
             pthread_cond_wait(&cond, &mutex);
         }
-         printf("Sono %" PRIiPTR "(antiorario). Turno n^%d. Attraverso!\n", ncar, ticket);
+        printf("ORARIO. Turno n^%d. Attraverso!\n", ticket);
         sleep(1);
+        
         /* I went through the bridge and I increase the turn */
-        current_dx++;
+        current_dx ++; 
+
+
+
         pthread_mutex_unlock(&mutex);
-        pthread_cond_signal(&cond);
+        pthread_cond_broadcast(&cond);
     }
     pthread_exit(NULL);
 }
 
 void *counterclockwise(void *arg){
-    intptr_t ncar = (intptr_t)arg;
     int ticket;
     while(1){
         /* i drive around the ring */
@@ -56,20 +58,20 @@ void *counterclockwise(void *arg){
         ticket = count_sx;
         count_sx ++;
         pthread_mutex_lock(&mutex); 
-        while(ticket> current_sx || count_sx < count_dx){
+        while(ticket> current_sx || count_sx-current_sx < count_dx-current_dx){
             if(ticket > current_sx){
-                printf("sono %" PRIiPTR "(antiorario) e aspetto perchè il mio turno è: %d mentre quello corrente: %d\n", ncar, ticket, current_sx);
+                printf("ANTIORARIO e aspetto perchè il mio turno è: %d mentre quello corrente: %d\n", ticket, current_sx);
             }else{
-                printf("sono %" PRIiPTR "(antiorario)  e aspetto perchè count_sx = %d < count_dx = %d\n", ncar, count_sx, count_dx);
+                printf("ANTIORARIO e aspetto perchè in ANTIORARIO ci sono %d macchine mentre in ORARIO %d\n", count_sx-current_sx, count_dx-current_dx);
             }
             pthread_cond_wait(&cond, &mutex);
         }
-        printf("Sono %" PRIiPTR "(antiorario). Turno n^%d. Attraverso!\n", ncar, ticket);
+        printf("ANTIORARIO. Turno n^%d. Attraverso!\n", ticket);
         sleep(1);
         /* I went through the bridge and I increase the turn */
         current_sx++;
         pthread_mutex_unlock(&mutex);
-        pthread_cond_signal(&cond);
+        pthread_cond_broadcast(&cond);
     }
     pthread_exit(NULL);
 }
