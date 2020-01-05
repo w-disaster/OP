@@ -1,0 +1,1129 @@
+/home/luca/Programs/radare2/shlr/capstone/xcode/Capstone.xcodeproj/xcshareddata/xcschemes/Dynamic Library.xcscheme
+/home/luca/Programs/radare2/shlr/capstone/xcode/Capstone.xcodeproj/xcshareddata/xcschemes/Static Library.xcscheme
+/home/luca/.cache/akonadi_ical_resource_0/Personal Calendarrc
+/home/luca/Desktop/prova/aa bb.txt
+/home/luca/Desktop/uni/programs/SO/prof/TREE4OS1920/sistemioperativi/Compile Linux Kernel 4.2.6 on Light Ubuntu 15.04.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi23 - implementazione concatenata delle liste.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi28 - file.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi7 - i vettori prima parte.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi21 - tipo di dato astratto.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi12 - le funzioni parte I.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi27 - code.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi20 - spazio indirizzamento virtuale - esempio.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi1 - cosa impareremo, fibonacci.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi0 - introduzione.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi30 - alberi.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi17 - le strutture.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi9 - le stringhe.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi25 - Liste con priorita implementate tramite strutture collegate.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi6 - la codifica delle informazioni.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi15 - spazio indirizzamento virtuale.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi14 - le funzioni parte III.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi18 - esempi programmi.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi31 - esercizi vari.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi5 - le strutture di controllo.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi3 - variabili, istruzioni.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi11 - i puntatori parte II.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi8 - i vettori seconda parte.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi2 - introduzione e fondamenti C, ADT.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi32 - alberi binari di ricerca.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi10 - i puntatori parte I.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi26 - esempio.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi6 - la codifica delle informazioni(1).pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi24 - implementazione doppiamente concatenata delle liste.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi13 - le funzioni parte II.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi16 - le funzioni parte III - esempio.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi29 - Approccio intuitivo alla complessita’ computazionale.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi22 - implementazione indicizzata delle liste.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi27 - pile.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi19 - i puntatori parte II.pdf
+/home/luca/Desktop/uni/lecture_notes/C_programming/lucidi4 - architettura, tipi di dato, variabili, espressioni.pdf
+/home/luca/Desktop/uni/lecture_notes/MdP/MdP_exercises/Esercizi 191010.pdf
+/home/luca/Desktop/uni/lecture_notes/algoritmi/es e soluzioni dal libro.pdf
+/home/luca/Desktop/uni/lecture_notes/architecture_lab/0 - Ambiente Microsoft Visual C++.pdf
+/home/luca/Desktop/uni/lecture_notes/architecture_lab/1 - Primi esercizi con l'assembly inline.pdf
+/home/luca/Desktop/uni/lecture_notes/architecture_lab/2 - Esercizi Assembler.pdf
+/home/luca/Desktop/spartiti/ATRO DEL CIEL quartetto-Tromba_in_Sib.pdf
+/home/luca/Desktop/spartiti/ALLELUIA_IRLANDESE quartetto-Tromba_in_Sib.pdf
+/home/luca/Desktop/spartiti/GLI ANGELI NELLE CAMPAGNE quartetto-Tromba_in_Sib.pdf
+/home/luca/Desktop/spartiti/SANCTUS DE LOURDES quartetto-Tromba_in_Sib.pdf
+/home/luca/Desktop/spartiti/AGNELLO DI DIO quartetto-Tromba_in_Sib.pdf
+/home/luca/Desktop/spartiti/NOTTE DI DLUCE quartetto-Tromba_in_Sib.pdf
+/home/luca/Desktop/spartiti/MESSA DI NATALE 2019.docx
+/home/luca/Desktop/spartiti/GLORIA quartetto-Tromba_in_Sib.pdf
+/home/luca/Desktop/spartiti/TU SCENDI DALLE STELLE quartetto ok-Tromba_in_Sib.pdf
+/home/luca/Desktop/spartiti/O PICCOLA BETLEMME quartetto-Tromba_in_Sib.pdf
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2)-s006.vmdk
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2).vmx
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2)-s001.vmdk
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2).nvram
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2).vmsd
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2)-s003.vmdk
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2)-s002.vmdk
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2).vmdk
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2).vmxf
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2)-s005.vmdk
+/home/luca/vmware/Debian 9.x 64-bit (2)/Debian 9.x 64-bit (2)-s004.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit.vmx
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-000001-s006.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit.nvram
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-000001.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-s006.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit.vmxf
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-000001-s003.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-s001.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-s005.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-000001-s001.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit.vmsd
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-s002.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-s003.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-s004.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-Snapshot1.vmsn
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-000001-s002.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-Snapshot1.vmem
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-000001-s004.vmdk
+/home/luca/vmware/Debian 9.x 64-bit/Debian 9.x 64-bit-000001-s005.vmdk
+/home/luca/.vim/bundle/YouCompleteMe/third_party/ycmd/ycmd/tests/cs/testdata/неприличное слово/a project.csproj
+/home/luca/.vim/bundle/YouCompleteMe/third_party/ycmd/ycmd/tests/cs/testdata/неприличное слово/a project.sln
+/home/luca/.vim/bundle/YouCompleteMe/third_party/ycmd/ycmd/tests/cs/testdata/неприличное слово/a project.userprefs
+/home/luca/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party/python-future/docs/notebooks/object special methods (next, bool, ...).ipynb
+/home/luca/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party/python-future/docs/notebooks/bytes object.ipynb
+/home/luca/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party/python-future/docs/notebooks/Writing Python 2-3 compatible code.ipynb
+/home/luca/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party/OmniSharpServer/NRefactory/doc/XML Documentation.html
+/home/luca/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party/OmniSharpServer/NRefactory/doc/Pattern Matching.html
+/home/luca/.vim/bundle/YouCompleteMe/third_party/python-future/docs/notebooks/object special methods (next, bool, ...).ipynb
+/home/luca/.vim/bundle/YouCompleteMe/third_party/python-future/docs/notebooks/bytes object.ipynb
+/home/luca/.vim/bundle/YouCompleteMe/third_party/python-future/docs/notebooks/Writing Python 2-3 compatible code.ipynb
+/home/luca/.config/Code/Network Persistent State
+/home/luca/.config/discord/Origin Bound Certs
+/home/luca/.config/discord/Origin Bound Certs-journal
+/home/luca/.config/discord/Network Persistent State
+/home/luca/.config/radare2/r2pm/git/r2ghidra-dec.git/ghidra/ghidra/Ghidra/Features/VersionTracking/src/main/resources/Version Tracking (DESTINATION TOOL).tool
+/home/luca/.config/radare2/r2pm/git/r2ghidra-dec.git/ghidra/ghidra/Ghidra/Features/VersionTracking/src/main/resources/Version Tracking (SOURCE TOOL).tool
+/home/luca/.config/radare2/r2pm/git/r2ghidra-dec.git/ghidra/ghidra/Ghidra/Framework/SoftwareModeling/data/languages/Steps to creation of Format Opinion.txt
+/home/luca/.config/radare2/r2pm/git/r2ghidra-dec.git/ghidra/ghidra/GhidraBuild/EclipsePlugins/GhidraSleighEditor/ghidra.xtext.sleigh/.launch/Generate Sleigh (sleigh) Language Infrastructure.launch
+/home/luca/.config/radare2/r2pm/git/r2ghidra-dec.git/ghidra/ghidra/GhidraBuild/EclipsePlugins/GhidraSleighEditor/ghidra.xtext.sleigh/.launch/Launch Runtime Eclipse.launch
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.19.48.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.20.55.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.19.49.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.21.56.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.22.30(1).jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.21.26(1).jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.22.30(2).jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.22.30.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.21.56(1).jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.19.48(1).jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.21.26.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.21.27.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.20.54.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.21.57.jpeg
+/home/luca/Documents/GCF/Guerre/WhatsApp Image 2019-05-20 at 11.20.54(1).jpeg
+/home/luca/Documents/MIT_Deep_Learning/introtodeeplearning_labs/lab2/img/PPB faces.png
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Simcity 2000 Special Edition
+/home/luca/.PlayOnLinux/configurations/icones/DC Universe Online
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Psychonauts
+/home/luca/.PlayOnLinux/configurations/icones/Cars 2
+/home/luca/.PlayOnLinux/configurations/icones/Fallout : New Vegas
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Conflict: Desert Storm
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Legacy of Kain: Soul Reaver 2
+/home/luca/.PlayOnLinux/configurations/icones/Marine Malice 2 : Le Mystère de l'Ecole Hantée
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Syndicate
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Sensible World of Soccer 96-97
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Guilty Gear X2 Reload
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Incredible Machine Mega Pack
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Wizardry 8
+/home/luca/.PlayOnLinux/configurations/icones/Runaway 1 - A Road Adventure
+/home/luca/.PlayOnLinux/configurations/icones/Tomb Raider III The Lost Artefact
+/home/luca/.PlayOnLinux/configurations/icones/Chuzzle PC CD-ROM
+/home/luca/.PlayOnLinux/configurations/icones/Crayon Physics
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Space Rangers 2: Reboot
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Realms of the Haunting
+/home/luca/.PlayOnLinux/configurations/icones/Runaway 2 - The Dream of the Turtle
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Oddworld: Abe's Exoddus
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Populous 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Master of Orion 1 and 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Alpha Centauri
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 7
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Lure of the Temptress
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Imperialism 2: The Age of Exploration
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Crusader: No Regret
+/home/luca/.PlayOnLinux/configurations/icones/Fallout 3
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 3
+/home/luca/.PlayOnLinux/configurations/icones/The Elder Scrolls IV - Knight of the nine
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Kingpin: Life of Crime
+/home/luca/.PlayOnLinux/configurations/icones/Star Wars: The Force Unleashed - Ultimate Sith Edition
+/home/luca/.PlayOnLinux/configurations/icones/Pluto Strikes Back
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Moonbase Commander
+/home/luca/.PlayOnLinux/configurations/icones/Starcraft II Wings of Liberty
+/home/luca/.PlayOnLinux/configurations/icones/Age Of Empires III : The Asian Dynasties
+/home/luca/.PlayOnLinux/configurations/icones/The Witcher
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Sam and Max: Beyond Time and Space
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Interstate 76 Arsenal
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Gothic
+/home/luca/.PlayOnLinux/configurations/icones/Opera 9.64
+/home/luca/.PlayOnLinux/configurations/icones/Call of Duty: Modern Warfare 3
+/home/luca/.PlayOnLinux/configurations/icones/Half-Life 2
+/home/luca/.PlayOnLinux/configurations/icones/Chessmaster: Grandmaster Edition
+/home/luca/.PlayOnLinux/configurations/icones/Prince of Persia : Warrior Within
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Baldur's Gate: The Original Saga
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Wing Commander 1 and 2
+/home/luca/.PlayOnLinux/configurations/icones/Full Tilt Poker
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Pirates Pack
+/home/luca/.PlayOnLinux/configurations/icones/Amazon Kindle
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Ultima 8 Gold Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Legend of Grimrock
+/home/luca/.PlayOnLinux/configurations/icones/Divine Divinity
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Book of Unwritten Tales
+/home/luca/.PlayOnLinux/configurations/icones/RollerCoaster Tycoon 2
+/home/luca/.PlayOnLinux/configurations/icones/Legacy of Kain : Soul Reaver 2 Patch 1.02
+/home/luca/.PlayOnLinux/configurations/icones/SimCity 2000
+/home/luca/.PlayOnLinux/configurations/icones/Star Wars: Jedi Knight: Jedi Academy
+/home/luca/.PlayOnLinux/configurations/icones/Pro Pilkki 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Pathologic Classic HD
+/home/luca/.PlayOnLinux/configurations/icones/S.T.A.L.K.E.R.: Clear Sky Patch 1.5.10
+/home/luca/.PlayOnLinux/configurations/icones/Graphe 2D
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Unreal Tournament GOTY
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - UFO: Aftermath
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Incoming and Incoming Forces
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - RollerCoaster Tycoon 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Lionheart: Legacy of the Crusader
+/home/luca/.PlayOnLinux/configurations/icones/Sam and Max Season 1
+/home/luca/.PlayOnLinux/configurations/icones/Sam and Max 203: Night of the Raving Dead
+/home/luca/.PlayOnLinux/configurations/icones/Windows Media Player 10
+/home/luca/.PlayOnLinux/configurations/icones/League Of Legends
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Magic Carpet 2: The Netherworlds
+/home/luca/.PlayOnLinux/configurations/icones/Ableton Live 9
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Avadon: The Black Fortress
+/home/luca/.PlayOnLinux/configurations/icones/Inno Setup
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Might and Magic 6-Pack
+/home/luca/.PlayOnLinux/configurations/icones/Starcraft : BroodWar
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Tex Murphy: The Pandora Directive
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Runaway: A Road Adventure
+/home/luca/.PlayOnLinux/configurations/icones/Need For Speed Hot Pursuit 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Shadow Warrior Complete
+/home/luca/.PlayOnLinux/configurations/icones/Deadpool The Game
+/home/luca/.PlayOnLinux/configurations/icones/Alien Carnage (Halloween Harry)
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Nexus: the Jupiter Incident
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Commandos Ammo Pack
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Populous 3: The Beginning
+/home/luca/.PlayOnLinux/configurations/icones/Photofiltre Studio X
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Runaway 3: A Twist of Fate
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Beyond Divinity
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Disciples 2 Gold
+/home/luca/.PlayOnLinux/configurations/icones/Counter Strike: Global Offensive
+/home/luca/.PlayOnLinux/configurations/icones/Command And Conquer 3 : Tiberium Wars (Kane Edition)
+/home/luca/.PlayOnLinux/configurations/icones/Command And Conquer 3 : Kane's Wrath Patch 1.02
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Ultima 1, 2, 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Shadowgrounds
+/home/luca/.PlayOnLinux/configurations/icones/Need For Speed Most Wanted
+/home/luca/.PlayOnLinux/configurations/icones/Grand Theft Auto IV
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Zork Grand Inquisitor
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Torchlight
+/home/luca/.PlayOnLinux/configurations/icones/Baldur's Gate II Patch 2.5.23037
+/home/luca/.PlayOnLinux/configurations/icones/Swat 4
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Space Quest 1, 2, 3
+/home/luca/.PlayOnLinux/configurations/icones/Half-Life 2 : Lost Coast
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Catacombs Pack
+/home/luca/.PlayOnLinux/configurations/icones/FEZ (Steam)
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Rayman Forever
+/home/luca/.PlayOnLinux/configurations/icones/Huckel 95
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Neighbours From Hell Compilation
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Startopia
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Dark Reign and Expansion
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Feeble Files
+/home/luca/.PlayOnLinux/configurations/icones/S.T.A.L.K.E.R.: Shadow of Chernobyl Patch 1.0005
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Screamer 2
+/home/luca/.PlayOnLinux/configurations/icones/Alien Swarm
+/home/luca/.PlayOnLinux/configurations/icones/La Panthere Rose 2 - Destination Mystere
+/home/luca/.PlayOnLinux/configurations/icones/Toca Race Driver 3
+/home/luca/.PlayOnLinux/configurations/icones/Derive 6
+/home/luca/.PlayOnLinux/configurations/icones/Dragon Age Patch 1.04
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Alien Breed and Tower Assault
+/home/luca/.PlayOnLinux/configurations/icones/Age Of Empires I - Gold Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Ishar compilation
+/home/luca/.PlayOnLinux/configurations/icones/World Of Warcraft : Wrath of the Lich King
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Earthworm Jim 1 and 2
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Spider Solitaire
+/home/luca/.PlayOnLinux/configurations/icones/The Matrix: Path of Neo
+/home/luca/.PlayOnLinux/configurations/icones/Prince of Persia : The Forgotten Sands
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Perimeter
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Book of Unwritten Tales: The Critter Chronicles
+/home/luca/.PlayOnLinux/configurations/icones/IDA 5 Pro Free
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Spycraft: The Great Game
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Nations Gold Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Carmageddon Max Pack
+/home/luca/.PlayOnLinux/configurations/icones/King's Bounty: The Legend
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Dreamfall: The longest journey
+/home/luca/.PlayOnLinux/configurations/icones/A.R.E.S. : Extinction Agenda
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 1
+/home/luca/.PlayOnLinux/configurations/icones/Adwords Editor 9.0.1
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 5.5
+/home/luca/.PlayOnLinux/configurations/icones/Adibou 2
+/home/luca/.PlayOnLinux/configurations/icones/Prince of Persia 2008
+/home/luca/.PlayOnLinux/configurations/icones/Baldur's Gate II
+/home/luca/.PlayOnLinux/configurations/icones/S.T.A.L.K.E.R.: Shadow of Chernobyl
+/home/luca/.PlayOnLinux/configurations/icones/Hidden and Dangerous Deluxe
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Medal of Honor: Allied Assault War Chest
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Sacrifice
+/home/luca/.PlayOnLinux/configurations/icones/Photofiltre 6.5.2
+/home/luca/.PlayOnLinux/configurations/icones/CassyLab 2
+/home/luca/.PlayOnLinux/configurations/icones/Sam and Max 204: Chariots of the Dogs
+/home/luca/.PlayOnLinux/configurations/icones/Ski Challenge 2011
+/home/luca/.PlayOnLinux/configurations/icones/Call of Chtulhu: Dark Corners of the Earth
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Nox
+/home/luca/.PlayOnLinux/configurations/icones/SFR LiberTalk
+/home/luca/.PlayOnLinux/configurations/icones/Fallout 3 - DLC
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Pro Pinball Timeshock
+/home/luca/.PlayOnLinux/configurations/icones/Assassin's Creed Brotherhood
+/home/luca/.PlayOnLinux/configurations/icones/System Shock 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Simon the Sorcerer 2
+/home/luca/.PlayOnLinux/configurations/icones/Guild Wars
+/home/luca/.PlayOnLinux/configurations/icones/Final Fantasy III
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Normality
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Wing Commander: Privateer
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Unreal Gold
+/home/luca/.PlayOnLinux/configurations/icones/The Elder Scrolls IV - Shivering Isle
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Myst Uru Complete Chronicles
+/home/luca/.PlayOnLinux/configurations/icones/EverQuest II Sentinel's Fate
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Ground Control 2
+/home/luca/.PlayOnLinux/configurations/icones/Baldur's Gate
+/home/luca/.PlayOnLinux/configurations/icones/Runaway 3 - A Twist of Fates
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Unreal 2
+/home/luca/.PlayOnLinux/configurations/icones/Orcs Must Die!
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Daikatana
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Gobliiins pack
+/home/luca/.PlayOnLinux/configurations/icones/The Witcher 2 : Assassins of Kings Patch 1.35
+/home/luca/.PlayOnLinux/configurations/icones/Wolfenstein Patch 1.2
+/home/luca/.PlayOnLinux/configurations/icones/Little Fighter 2 v2.0a
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Anvil of Dawn
+/home/luca/.PlayOnLinux/configurations/icones/World Of Warcraft
+/home/luca/.PlayOnLinux/configurations/icones/Baldur's Gate : Tales of the Sword Coast Patch 1.3.5512
+/home/luca/.PlayOnLinux/configurations/icones/The Sims Medieval
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Dragonsphere
+/home/luca/.PlayOnLinux/configurations/icones/Prince of Persia : The Two Thrones
+/home/luca/.PlayOnLinux/configurations/icones/Command And Conquer : Red Alert 3 : Uprising
+/home/luca/.PlayOnLinux/configurations/icones/Baldur's Gate II : Throne of Bhaal Patch 2.5.26498
+/home/luca/.PlayOnLinux/configurations/icones/Google SketchUp
+/home/luca/.PlayOnLinux/configurations/icones/Guild Wars 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - MDK
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Arcanum
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - I Have No Mouth and I Must Scream
+/home/luca/.PlayOnLinux/configurations/icones/Traktor Pro 2
+/home/luca/.PlayOnLinux/configurations/icones/Watchtower library
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Age of Wonders: Shadow Magic
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Icewind Dale II Complete
+/home/luca/.PlayOnLinux/configurations/icones/FlatOut II
+/home/luca/.PlayOnLinux/configurations/icones/Age Of Empires III
+/home/luca/.PlayOnLinux/configurations/icones/Supreme Commander
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Postal 2 Complete
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Still Life
+/home/luca/.PlayOnLinux/configurations/icones/Need For Speed: High Stakes Road Challenge
+/home/luca/.PlayOnLinux/configurations/icones/Trainz Railroad Simulator 2006
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Might and Magic 7
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Might and Magic 8
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Praetorians
+/home/luca/.PlayOnLinux/configurations/icones/Gothic 3
+/home/luca/.PlayOnLinux/configurations/icones/Serious Sam - The First Encounter
+/home/luca/.PlayOnLinux/configurations/icones/1000 Mots
+/home/luca/.PlayOnLinux/configurations/icones/Legacy of Kain : Soul Reaver 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Resonance
+/home/luca/.PlayOnLinux/configurations/icones/Star Wars: Knights Of The Old Republic
+/home/luca/.PlayOnLinux/configurations/icones/Publish or Perish
+/home/luca/.PlayOnLinux/configurations/icones/Mount and Blade : Warband
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Pharaoh and Cleopatra
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Temple of Elemental Evil
+/home/luca/.PlayOnLinux/configurations/icones/QuickTime Player
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Alone in the Dark 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Sam and Max Save the World
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Little Big Adventure
+/home/luca/.PlayOnLinux/configurations/icones/Tomb Raider The Angel Of Darkness
+/home/luca/.PlayOnLinux/configurations/icones/S.T.A.L.K.E.R.: Clear Sky
+/home/luca/.PlayOnLinux/configurations/icones/Dragon Age : Origins
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Total Annihilation: Kingdoms
+/home/luca/.PlayOnLinux/configurations/icones/Cacodemons Barbecue Party in Hell
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Blade of Darkness
+/home/luca/.PlayOnLinux/configurations/icones/Blade Runner
+/home/luca/.PlayOnLinux/configurations/icones/Grand Theft Auto : San Andreas
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Evil Genius
+/home/luca/.PlayOnLinux/configurations/icones/Battlefield 2
+/home/luca/.PlayOnLinux/configurations/icones/Dragon Age 2 - DLC
+/home/luca/.PlayOnLinux/configurations/icones/Serious Sam - The Second Encounter
+/home/luca/.PlayOnLinux/configurations/icones/Clive Barker's Jericho
+/home/luca/.PlayOnLinux/configurations/icones/Legions: Overdrive
+/home/luca/.PlayOnLinux/configurations/icones/The Witcher 2 : Assassins of Kings
+/home/luca/.PlayOnLinux/configurations/icones/Silent Hill 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Fallout Tactics
+/home/luca/.PlayOnLinux/configurations/icones/Planescape Torment
+/home/luca/.PlayOnLinux/configurations/icones/Adi 4 College
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Heroes of Might and Magic 3 Complete
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Arma: Cold War Assault
+/home/luca/.PlayOnLinux/configurations/icones/The Witcher Patch 1.5
+/home/luca/.PlayOnLinux/configurations/icones/Far Cry 2
+/home/luca/.PlayOnLinux/configurations/icones/Need For Speed Undercover
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Avernum: The Complete Saga
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Icewind Dale Complete
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Star Wolves
+/home/luca/.PlayOnLinux/configurations/icones/Theme Hospital
+/home/luca/.PlayOnLinux/configurations/icones/Soldier of Fortune Platinum
+/home/luca/.PlayOnLinux/configurations/icones/FluidMark 1.3.1
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - A New Beginning: Final Cut
+/home/luca/.PlayOnLinux/configurations/icones/Assassin's Creed Brotherhood Patch 1.03
+/home/luca/.PlayOnLinux/configurations/icones/Star Wars: Jedi Knight II : Jedi Outcast
+/home/luca/.PlayOnLinux/configurations/icones/Halo Combat Evolved
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - RollerCoaster Tycoon 3
+/home/luca/.PlayOnLinux/configurations/icones/Pirate 101
+/home/luca/.PlayOnLinux/configurations/icones/X3 : Terran Conflict
+/home/luca/.PlayOnLinux/configurations/icones/Legacy of Kain : Soul Reaver
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 4
+/home/luca/.PlayOnLinux/configurations/icones/Warcraft III: Reign of Chaos
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Anachronox
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Longest Journey
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Freecell
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Personal Nightmare
+/home/luca/.PlayOnLinux/configurations/icones/Baldur's Gate II : Throne of Bhaal
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Divine Divinity
+/home/luca/.PlayOnLinux/configurations/icones/Grand Theft Auto : Vice City
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Forgotten Realms: Demon Stone
+/home/luca/.PlayOnLinux/configurations/icones/Max Payne 2 : The Fall of Max Payne
+/home/luca/.PlayOnLinux/configurations/icones/Mass Effect 2
+/home/luca/.PlayOnLinux/configurations/icones/Guitar Rig 5
+/home/luca/.PlayOnLinux/configurations/icones/Rocket Reader
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Silver
+/home/luca/.PlayOnLinux/configurations/icones/Hitman 2
+/home/luca/.PlayOnLinux/configurations/icones/Syberia II
+/home/luca/.PlayOnLinux/configurations/icones/Cadstd Lite 3.7.0
+/home/luca/.PlayOnLinux/configurations/icones/Two Worlds II Patch 1.0.1
+/home/luca/.PlayOnLinux/configurations/icones/Etherlords 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Seven Kingdoms: Ancient Adversaries
+/home/luca/.PlayOnLinux/configurations/icones/The Next BIG Thing
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Descent 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Puddle
+/home/luca/.PlayOnLinux/configurations/icones/Secret of Monkey Island Special Edition
+/home/luca/.PlayOnLinux/configurations/icones/Wizard 101
+/home/luca/.PlayOnLinux/configurations/icones/Quiet Internet Pager
+/home/luca/.PlayOnLinux/configurations/icones/Adwords Editor 8.0.1
+/home/luca/.PlayOnLinux/configurations/icones/yWriter 5
+/home/luca/.PlayOnLinux/configurations/icones/Tomb Raider (2013)
+/home/luca/.PlayOnLinux/configurations/icones/Far Cry 2 Patch 1.03
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Broken Sword 4: The Angel of Death
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - One Unit Whole Blood
+/home/luca/.PlayOnLinux/configurations/icones/FL Studio 10
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Chaos Engine Remastered
+/home/luca/.PlayOnLinux/configurations/icones/Reaper 4
+/home/luca/.PlayOnLinux/configurations/icones/Adobe Photoshop Lightroom 5
+/home/luca/.PlayOnLinux/configurations/icones/NeverWinter Nights 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Urban Chaos
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Gabriel Knight 3: Blood of the Sacred, of the Damned
+/home/luca/.PlayOnLinux/configurations/icones/SimCity 4
+/home/luca/.PlayOnLinux/configurations/icones/The Sims 3 World Adventures
+/home/luca/.PlayOnLinux/configurations/icones/Heroes of Might and Magic 5 : Tribes Of The East
+/home/luca/.PlayOnLinux/configurations/icones/Theme Park World
+/home/luca/.PlayOnLinux/configurations/icones/Max Payne
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Tales of Monkey Island
+/home/luca/.PlayOnLinux/configurations/icones/ReBirth RB-338
+/home/luca/.PlayOnLinux/configurations/icones/Age Of Wonders
+/home/luca/.PlayOnLinux/configurations/icones/Ski Challenge 2012
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 6
+/home/luca/.PlayOnLinux/configurations/icones/ISIS Draw 2.3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Temple of Elemental Evil patch CO8 Modpack 7
+/home/luca/.PlayOnLinux/configurations/icones/Ableton Live 8
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Advent Rising
+/home/luca/.PlayOnLinux/configurations/icones/Warcraft III: The Frozen Throne
+/home/luca/.PlayOnLinux/configurations/icones/Legacy of Kain : Defiance
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Broken Sword 3: The Sleeping Dragon
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Oddworld: Abe's Oddysee
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Far Cry 2
+/home/luca/.PlayOnLinux/configurations/icones/Mass Effect 2 Patch 1.02
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Slipstream 5000
+/home/luca/.PlayOnLinux/configurations/icones/The Sims Medieval Patch 1.3.13
+/home/luca/.PlayOnLinux/configurations/icones/The Elder Scrolls II: Daggerfall
+/home/luca/.PlayOnLinux/configurations/icones/Adobe Photoshop CS6
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Hitman: Codename 47
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Little Big Adventure 2
+/home/luca/.PlayOnLinux/configurations/icones/Tomb Raider II Golden Mask
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Crusader: No Remorse
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Blackwell Bundle
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Dark Fall: Lights Out
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - BloodRayne
+/home/luca/.PlayOnLinux/configurations/icones/Crayon Physics Deluxe
+/home/luca/.PlayOnLinux/configurations/icones/Legacy of Kain : Blood Omen 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Dark Fall: The Journal
+/home/luca/.PlayOnLinux/configurations/icones/Command And Conquer : Red Alert 3
+/home/luca/.PlayOnLinux/configurations/icones/The Elder Scrolls III - Morrowind
+/home/luca/.PlayOnLinux/configurations/icones/Codeblocks 10.05
+/home/luca/.PlayOnLinux/configurations/icones/Riffstation Trial
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Realms of Arkania 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Alone in the Dark 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Lands of Lore 1 and 2
+/home/luca/.PlayOnLinux/configurations/icones/Teach 2000
+/home/luca/.PlayOnLinux/configurations/icones/The Matrix: Path of Neo Update 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Broken Sword 1: Shadow of The Templars
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Office 2000
+/home/luca/.PlayOnLinux/configurations/icones/Last Chaos
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Original War
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Sherlock Holmes: Secret of the Silver Earring
+/home/luca/.PlayOnLinux/configurations/icones/World in Conflict
+/home/luca/.PlayOnLinux/configurations/icones/Orcs Must Die! 2
+/home/luca/.PlayOnLinux/configurations/icones/RollerCoaster Tycoon 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Hitman 2: Silent Assassin
+/home/luca/.PlayOnLinux/configurations/icones/Legacy of Kain : Blood Omen
+/home/luca/.PlayOnLinux/configurations/icones/World Of Warcraft : The Burning Crusade
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Chronicles of Riddick: Assault on Dark Athena
+/home/luca/.PlayOnLinux/configurations/icones/Blood Bowl
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Magic Carpet
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Office 2007
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Freespace 2
+/home/luca/.PlayOnLinux/configurations/icones/Red Faction
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Iron Storm
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Incredipede
+/home/luca/.PlayOnLinux/configurations/icones/PlanetSide 2
+/home/luca/.PlayOnLinux/configurations/icones/Villagers and Heroes
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Gabriel Knight 2: The Beast Within
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Tex Murphy: Under a Killing Moon
+/home/luca/.PlayOnLinux/configurations/icones/Warcraft II: Battle.net Edition
+/home/luca/.PlayOnLinux/configurations/icones/Star Wars: Knights Of The Old Republic : The Sith Lords
+/home/luca/.PlayOnLinux/configurations/icones/Runespell : Overture
+/home/luca/.PlayOnLinux/configurations/icones/Rally Championship 2000
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Tropico 3 Gold Edition
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Money 2003
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Ultima Worlds of Adventure 2: Martian Dreams
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Redneck Rampage Collection
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Fury 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Wallace and Gromits Grand Adventures
+/home/luca/.PlayOnLinux/configurations/icones/Race Driver : GRID
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Sam and Max: The Devils Playhouse
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Thief 3: Deadly Shadows
+/home/luca/.PlayOnLinux/configurations/icones/Google Picasa 3.9
+/home/luca/.PlayOnLinux/configurations/icones/Star Wars: The Old Republic
+/home/luca/.PlayOnLinux/configurations/icones/Football Manager 2010
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Cannon Fodder
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Neverwinter Nights Diamond Edition
+/home/luca/.PlayOnLinux/configurations/icones/Mafia II
+/home/luca/.PlayOnLinux/configurations/icones/The Elder Scrolls IV - Oblivion
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Darkstone
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Commandos 2 and 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Dark Eye: Chain of Satinav
+/home/luca/.PlayOnLinux/configurations/icones/Rayman Origins
+/home/luca/.PlayOnLinux/configurations/icones/Dungeon Siege III
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Office 2003
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Simon the Sorcerer
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Two Worlds: Epic Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Legacy of Kain: Defiance
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Rayman Origins
+/home/luca/.PlayOnLinux/configurations/icones/Devil May Cry 4
+/home/luca/.PlayOnLinux/configurations/icones/Starcraft patch 1.15
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - MDK 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Populous 3: The Beginning - High-resolution patch
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Duke Nukem 3D Atomic Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - S2: Silent Storm Gold Edition
+/home/luca/.PlayOnLinux/configurations/icones/Absynth 5
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Unreal Tournament 2004 ECE
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Money 2004
+/home/luca/.PlayOnLinux/configurations/icones/The Sims 3
+/home/luca/.PlayOnLinux/configurations/icones/Age Of Empires III : The WarChiefs
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Fallout
+/home/luca/.PlayOnLinux/configurations/icones/Path of Exile
+/home/luca/.PlayOnLinux/configurations/icones/SimCity 3000
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Thief 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Baldur's Gate II Complete
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 5
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - System Shock 2
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Office 2010 Activation
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Beyond Good and Evil
+/home/luca/.PlayOnLinux/configurations/icones/Internet Explorer 8
+/home/luca/.PlayOnLinux/configurations/icones/iTunes 10
+/home/luca/.PlayOnLinux/configurations/icones/Half-Life 2 : Episode Two
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Legacy of Kain: Soul Reaver
+/home/luca/.PlayOnLinux/configurations/icones/Tropico 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Outcast
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Giants: Citizen Kabuto
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Painkiller: Black Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Stonekeep
+/home/luca/.PlayOnLinux/configurations/icones/Dragon Age : Awakening
+/home/luca/.PlayOnLinux/configurations/icones/Diablo III
+/home/luca/.PlayOnLinux/configurations/icones/Chessmaster: Grandmaster Edition - Patch 1.02
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Dungeon Keeper 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Magrunner: Dark Pulse
+/home/luca/.PlayOnLinux/configurations/icones/Super Street Fighter IV : Arcade Edition
+/home/luca/.PlayOnLinux/configurations/icones/Worms Reloaded
+/home/luca/.PlayOnLinux/configurations/icones/LibreOffice 4
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Gothic 3
+/home/luca/.PlayOnLinux/configurations/icones/Kingdoms of Amalur : Reckoning
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Papers, please
+/home/luca/.PlayOnLinux/configurations/icones/Command And Conquer 3 : Kane's Wrath
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Dungeon Keeper
+/home/luca/.PlayOnLinux/configurations/icones/Dragon Age 2 Patch 1.03
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Planescape: Torment
+/home/luca/.PlayOnLinux/configurations/icones/S.T.A.L.K.E.R.: Call of Pripyat
+/home/luca/.PlayOnLinux/configurations/icones/Google Drive Sync
+/home/luca/.PlayOnLinux/configurations/icones/Command And Conquer : Red Alert 3 Patch 1.12
+/home/luca/.PlayOnLinux/configurations/icones/FurMark 1.9.1
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - 1nsane
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Money 2005
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Knights and Merchants: The Peasants Rebellion
+/home/luca/.PlayOnLinux/configurations/icones/The Elder Scrolls V: Skyrim
+/home/luca/.PlayOnLinux/configurations/icones/Tera Online
+/home/luca/.PlayOnLinux/configurations/icones/The Last Remnant
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Jack Orlando: A Cinematic Adventure
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Wing Commander 3: Heart of the Tiger
+/home/luca/.PlayOnLinux/configurations/icones/Goblins 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Total Annihilation: Commander Pack
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Broken Sword 2: The Smoking Mirror
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Blood 2: The Chosen and The Nightmare Levels
+/home/luca/.PlayOnLinux/configurations/icones/Flash MX
+/home/luca/.PlayOnLinux/configurations/icones/Deus Ex: Human Revolution
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Theme Hospital
+/home/luca/.PlayOnLinux/configurations/icones/Memories On TV
+/home/luca/.PlayOnLinux/configurations/icones/BLAZE - mechforces
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Tyrian 2000
+/home/luca/.PlayOnLinux/configurations/icones/Fireworks MX
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Shogo: Mobile Armor Division
+/home/luca/.PlayOnLinux/configurations/icones/Assassin's Creed
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Fez Patch
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Office 2010
+/home/luca/.PlayOnLinux/configurations/icones/Portal 2
+/home/luca/.PlayOnLinux/configurations/icones/Sam and Max 201: Ice Station Santa
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Bioforge
+/home/luca/.PlayOnLinux/configurations/icones/Origin from OriginLab
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Syberia
+/home/luca/.PlayOnLinux/configurations/icones/Trackmania Nations Forever
+/home/luca/.PlayOnLinux/configurations/icones/Escape From Monkey Island
+/home/luca/.PlayOnLinux/configurations/icones/Sam and Max 202: Moai Better Blues
+/home/luca/.PlayOnLinux/configurations/icones/Monkey Island 2 Special Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Space Quest 4, 5, 6
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Witcher Enhanced Edition Directors Cut
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Sanitarium
+/home/luca/.PlayOnLinux/configurations/icones/Wow Cartographe
+/home/luca/.PlayOnLinux/configurations/icones/Lara Croft and the Guardian of Light
+/home/luca/.PlayOnLinux/configurations/icones/Chessmaster: Grandmaster Edition - Patch 1.01
+/home/luca/.PlayOnLinux/configurations/icones/Assassin's Creed 2 Patch 1.01
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Gabriel Knight 1: Sins of the Fathers
+/home/luca/.PlayOnLinux/configurations/icones/Final Fantasy IV
+/home/luca/.PlayOnLinux/configurations/icones/Call Of Juarez Gunslinger
+/home/luca/.PlayOnLinux/configurations/icones/Caesar III
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Pinball
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Freedom Force vs. the 3rd Reich
+/home/luca/.PlayOnLinux/configurations/icones/Poker Stars
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Enclave
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Worlds of Ultima: The Savage Empire
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Age of Wonders
+/home/luca/.PlayOnLinux/configurations/icones/Warcraft II: Tides of Darkness
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - XIII
+/home/luca/.PlayOnLinux/configurations/icones/World Of Tanks
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Jagged Alliance 2
+/home/luca/.PlayOnLinux/configurations/icones/The Truth About Game Development
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Torins Passage
+/home/luca/.PlayOnLinux/configurations/icones/The Witcher 2 : Enhanced Edition Patch
+/home/luca/.PlayOnLinux/configurations/icones/X3 : Terran Conflict Patch 3.2
+/home/luca/.PlayOnLinux/configurations/icones/I Miss the Sunrise
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Zeus and Poseidon
+/home/luca/.PlayOnLinux/configurations/icones/Mozilla Firefox
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Realms of Arkania 1 and 2
+/home/luca/.PlayOnLinux/configurations/icones/Geheimakte Tunguska - German
+/home/luca/.PlayOnLinux/configurations/icones/Metal Slug Collection
+/home/luca/.PlayOnLinux/configurations/icones/Universal Extractor
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Deus Ex GOTY Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Screamer
+/home/luca/.PlayOnLinux/configurations/icones/Gothic 1
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Hotline miami
+/home/luca/.PlayOnLinux/configurations/icones/OCR CuneiForm
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Gothic 2 Gold
+/home/luca/.PlayOnLinux/configurations/icones/Ufo: aftermath
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Ultima 4
+/home/luca/.PlayOnLinux/configurations/icones/Civilization IV: Complete Edition
+/home/luca/.PlayOnLinux/configurations/icones/Two Worlds II
+/home/luca/.PlayOnLinux/configurations/icones/Diablo II : Lord Of Destruction
+/home/luca/.PlayOnLinux/configurations/icones/Battlefield 1942
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Septerra Core: Legacy of the Creator
+/home/luca/.PlayOnLinux/configurations/icones/The Wolf Among Us
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Fez
+/home/luca/.PlayOnLinux/configurations/icones/StarUML 5.0
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Tropico Reloaded
+/home/luca/.PlayOnLinux/configurations/icones/Dark Messiah Of Might And Magic
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Settlers 2: 10th Anniversary
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Deponia
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Arx Fatalis
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Balls of Steel
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Riven: The sequel to Myst
+/home/luca/.PlayOnLinux/configurations/icones/Half-Life 2 : Episode One
+/home/luca/.PlayOnLinux/configurations/icones/GEX 1.0
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Stronghold HD
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Flatout
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Syberia 2
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Heroes of Might and Magic 3 HD mod
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Last Express
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Starflight 1 and 2
+/home/luca/.PlayOnLinux/configurations/icones/Dead Space 2
+/home/luca/.PlayOnLinux/configurations/icones/Trackmania United Forever
+/home/luca/.PlayOnLinux/configurations/icones/La Panthere Rose 1 - Passeport pour le Danger
+/home/luca/.PlayOnLinux/configurations/icones/Super Meat Boy
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Outcast: High-resolution patch
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Prince of Persia: The Sands of Time
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Duke Nukem 1 and 2
+/home/luca/.PlayOnLinux/configurations/icones/Assassin's Creed 2
+/home/luca/.PlayOnLinux/configurations/icones/Prince of Persia : Sands of Time
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Back To The Future The Game
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Another World: 15th Anniversary Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Clive Barker's Undying
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Return to Mysterious Island
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Word Viewer 2003
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Quest for Glory
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Fury 3 - Demo
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Duke Nukem: Manhattan Project
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Thief Gold
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Age of Wonders 2: The Wizard's Throne
+/home/luca/.PlayOnLinux/configurations/icones/Mass Effect
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Master of Magic
+/home/luca/.PlayOnLinux/configurations/icones/Tomb Raider Legend
+/home/luca/.PlayOnLinux/configurations/icones/Hitman 3 : Contracts
+/home/luca/.PlayOnLinux/configurations/icones/Diablo II
+/home/luca/.PlayOnLinux/configurations/icones/Fireworks 8
+/home/luca/.PlayOnLinux/configurations/icones/Starcraft BroodWars 1.15 patch
+/home/luca/.PlayOnLinux/configurations/icones/Bioshock Patch 1.1
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Teenagent
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - POD Gold
+/home/luca/.PlayOnLinux/configurations/icones/Crossword Compiler
+/home/luca/.PlayOnLinux/configurations/icones/Star Wars: Battlefront
+/home/luca/.PlayOnLinux/configurations/icones/Tomb Raider II
+/home/luca/.PlayOnLinux/configurations/icones/Hyperdimension Neptunia ReBirth1
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Deus Ex 2: Invisible War
+/home/luca/.PlayOnLinux/configurations/icones/Dragon Age 2
+/home/luca/.PlayOnLinux/configurations/icones/Reshade Image Enlarger
+/home/luca/.PlayOnLinux/configurations/icones/Baldur's Gate : Tales of the Sword Coast
+/home/luca/.PlayOnLinux/configurations/icones/Dead Space
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Dungeons and Dragons: Dragonshard
+/home/luca/.PlayOnLinux/configurations/icones/Age Of Mythology - Gold Edition (Ubisoft Exclusive)
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Warlords Battlecry 3
+/home/luca/.PlayOnLinux/configurations/icones/Sonic And SEGA All-Stars Racing
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Alone in the Dark 1
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Far Cry
+/home/luca/.PlayOnLinux/configurations/icones/Fable : The Lost Chapters
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Megarace
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - The Whispered World Special Edition
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Tom Clancy's Ghost Recon
+/home/luca/.PlayOnLinux/configurations/icones/Microsoft Paint
+/home/luca/.PlayOnLinux/configurations/icones/Baldur's Gate Patch 1.1.4315
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Splinter Cell
+/home/luca/.PlayOnLinux/configurations/icones/Age Of Empires I
+/home/luca/.PlayOnLinux/configurations/icones/The Elder Scrolls Online
+/home/luca/.PlayOnLinux/configurations/icones/Vantage Master Online
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Gemini Rue
+/home/luca/.PlayOnLinux/configurations/icones/Red Faction II
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Caesar III
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Lands of Lore 3
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Fallout 2
+/home/luca/.PlayOnLinux/configurations/icones/Company of Heroes
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Ultima 4, 5, 6
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Neverwinter Nights 2: Complete
+/home/luca/.PlayOnLinux/configurations/icones/LRose Online
+/home/luca/.PlayOnLinux/configurations/icones/Notepad Plus Plus
+/home/luca/.PlayOnLinux/configurations/icones/Grand Theft Auto 3
+/home/luca/.PlayOnLinux/configurations/icones/Sonic Adventure DX
+/home/luca/.PlayOnLinux/configurations/icones/Pathologic Classic HD
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Betrayal at Krondor Pack
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - In Cold Blood
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - UFO: Afterlight
+/home/luca/.PlayOnLinux/configurations/icones/LibreOffice 5
+/home/luca/.PlayOnLinux/configurations/icones/Reason 5
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Sacred Gold
+/home/luca/.PlayOnLinux/configurations/icones/Gothic 2
+/home/luca/.PlayOnLinux/configurations/icones/Richard Burns Rally
+/home/luca/.PlayOnLinux/configurations/icones/Flash 8
+/home/luca/.PlayOnLinux/configurations/icones/Evolution 4
+/home/luca/.PlayOnLinux/configurations/icones/GOG.com - Darklands
+/home/luca/.PlayOnLinux/configurations/icones/Worms World Party
+/home/luca/.PlayOnLinux/configurations/icones/DmC: Devil May Cry
+/home/luca/.PlayOnLinux/logs/iTunes 10/iTunes 10.log
+/home/luca/.kde/share/apps/color-schemes/Breeze Dark.colors
+/home/luca/git-2.4.1/t/t4135/diff-with spaces.diff
+/home/luca/git-2.4.1/t/t4135/git-with quote.diff
+/home/luca/git-2.4.1/t/t4135/add-with tab.diff
+/home/luca/git-2.4.1/t/t4135/git-with backslash.diff
+/home/luca/git-2.4.1/t/t4135/diff-with tab.diff
+/home/luca/git-2.4.1/t/t4135/git-with tab.diff
+/home/luca/git-2.4.1/t/t4135/diff-with quote.diff
+/home/luca/git-2.4.1/t/t4135/add-with quote.diff
+/home/luca/git-2.4.1/t/t4135/add-with spaces.diff
+/home/luca/git-2.4.1/t/t4135/diff-with backslash.diff
+/home/luca/git-2.4.1/t/t4135/add-with backslash.diff
+/home/luca/git-2.4.1/t/t4135/git-with spaces.diff
+/home/luca/Downloads/Laboratorio 03 - slide ed esercizi-20191007.zip
+/home/luca/Downloads/Teoria Architettura Michele Mazzø Mazzotti(1)(1).pdf
+/home/luca/Downloads/Silvestrini Mencuccini - Fisica 1.pdf
+/home/luca/Downloads/Teoria Architettura Michele Mazzø Mazzotti(1).pdf
+/home/luca/Downloads/Graded_BAKER 4 FINAL_1.mp4
+/home/luca/Downloads/Laboratorio 05 Branching, merging, collezioni-20191021(1).zip
+/home/luca/Downloads/Senza titolo.pdf
+/home/luca/Downloads/[1997] Java Code Conventions.pdf
+/home/luca/Downloads/The Tourist  [m1080p] (2010).mp4
+/home/luca/Downloads/Potenze di 2.pdf
+/home/luca/Downloads/Laboratorio 04 slide ed esercizi-20191014.zip
+/home/luca/Downloads/WhatsApp Image 2018-10-09 at 08.17.09.jpeg
+/home/luca/Downloads/Laboratorio 05 Branching, merging, collezioni-20191021.zip
+/home/luca/Downloads/Matrix [m1080p] (1999).mp4
+/home/luca/Downloads/MIT 6.S191 (2018) Introduction to Deep Learning.mp4
+/home/luca/Downloads/Matrix Reloaded [m1080p] (2003).mp4
+/home/luca/Downloads/Senza titolo(1).pdf
+/home/luca/Downloads/1.2.1.3 Lab - Compare Data with a Hash.pdf
+/home/luca/Downloads/Telegram Desktop/Paganelli - Mazzaferri (2) (2).pages
+/home/luca/Downloads/Telegram Desktop/fe679b4 (2).png
+/home/luca/Downloads/Telegram Desktop/Porting to ARM 64-bit whitepaper.pdf
+/home/luca/Downloads/Telegram Desktop/2019-10-28-202458_1920x1080_scrot (2).png
+/home/luca/Downloads/Telegram Desktop/config (2)
+/home/luca/Downloads/Telegram Desktop/Paganelli - Mazzaferri (2).pages
+/home/luca/Downloads/Telegram Desktop/lubuntu-2019-10-18T17-30-30-389508000Z (2).webm
+/home/luca/Downloads/Telegram Desktop/vim cheatsheet complete.pdf
+/home/luca/Downloads/WhatsApp Image 2018-10-09 at 08.17.08.jpeg
+/home/luca/.local/share/okular/docdata/34218.GLI ANGELI NELLE CAMPAGNE quartetto-Tromba_in_Sib.pdf.xml
+/home/luca/.local/share/okular/docdata/22586.GLORIA quartetto-Tromba_in_Sib.pdf.xml
+/home/luca/.local/share/okular/docdata/31794.SANCTUS DE LOURDES quartetto-Tromba_in_Sib.pdf.xml
+/home/luca/.local/share/okular/docdata/123001.Senza titolo(1).pdf.xml
+/home/luca/.local/share/okular/docdata/111290.Senza titolo.pdf.xml
+/home/luca/.local/share/konqueror/QtWebEngine/Default/Visited Links
+/home/luca/.local/share/konqueror/QtWebEngine/Default/Origin Bound Certs
+/home/luca/.local/share/konqueror/QtWebEngine/Default/Origin Bound Certs-journal
+/home/luca/.local/share/RecentDocuments/Graded_BAKER 4 FINAL_1.mp4[2].desktop
+/home/luca/.local/share/thumbnail.so/QtWebEngine/Default/Visited Links
+/home/luca/.local/share/kmail2/QtWebEngine/Default/Visited Links
+/home/luca/Pictures/Schermata da 2019-02-11 17-10-18.png
+/home/luca/Pictures/Screenshot from 2019-10-26 10-36-23.png
+/home/luca/Pictures/Screenshot from 2019-10-26 12-00-00.png
+/home/luca/Pictures/Screenshot from 2019-10-26 10-24-21.png
+/home/luca/Pictures/Schermata da 2019-02-11 17-12-21.png
+/home/luca/Pictures/Schermata da 2019-04-05 09-26-39.png
+/home/luca/Pictures/Schermata da 2019-04-04 19-10-46.png
+/home/luca/Pictures/Screenshot from 2019-10-26 10-24-23.png
+/home/luca/Pictures/Schermata da 2019-03-30 12-09-01.png
+/home/luca/Pictures/Schermata da 2019-03-23 09-11-24.png
+/home/luca/Pictures/Schermata da 2019-02-13 12-21-02.png
+/home/luca/Pictures/Screenshot from 2019-10-16 19-12-11.png
+/home/luca/Pictures/Schermata da 2019-03-21 22-29-39.png
+/home/luca/Pictures/UML/Screenshot from 2019-10-25 09-53-08.png
+/home/luca/Pictures/UML/Screenshot from 2019-10-25 09-36-05.png
+/home/luca/Pictures/Schermata da 2019-06-11 16-54-19.png
+/home/luca/Pictures/Screenshot from 2019-10-29 18-03-35.png
+/home/luca/Pictures/Schermata da 2019-06-12 15-43-36.png
+/home/luca/Pictures/Schermata da 2019-02-23 12-34-31.png
+/home/luca/Pictures/Schermata da 2019-03-23 09-11-19.png
+/home/luca/Pictures/Schermata da 2019-03-23 09-11-37.png
+/home/luca/Pictures/Schermata da 2019-03-18 21-30-13.png
+/home/luca/Pictures/Schermata da 2019-03-03 18-26-11.png
+/home/luca/Pictures/Schermata da 2019-03-04 16-52-09.png
+/home/luca/Pictures/Screenshot from 2019-10-26 15-12-46.png
+/home/luca/Pictures/Screenshot from 2019-11-07 23-15-48.png
+/home/luca/Pictures/Screenshot from 2019-10-26 14-49-34.png
+/home/luca/Pictures/Schermata da 2019-08-19 17-57-18.png
+/home/luca/Pictures/Screenshot from 2019-10-26 15-19-07.png
+/home/luca/Pictures/Screenshot from 2019-10-16 19-11-56.png
+/home/luca/Pictures/Schermata da 2019-03-25 17-54-14.png
+/home/luca/Pictures/Screenshot from 2019-10-16 19-04-47.png
+/home/luca/Pictures/Screenshot from 2019-10-26 14-53-12.png
+/home/luca/Pictures/Schermata da 2019-03-30 12-44-14.png
+/home/luca/Pictures/Screenshot from 2019-10-26 11-24-09.png
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - buildDependents.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/App (1).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/AObject2 (1).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Test (6).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - classes.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/UseWarehouse (1).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Test (1).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - javadoc.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/UseWarehouse (2).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - init.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - jar.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - build.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Test (3).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - clean.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - testClasses.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/UseCollection (1).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/GUIExample (1).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Test (4).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/TestSocialNetworkUser (1).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Test (2).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - buildNeeded.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Test (7).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Test (5).launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - wrapper.launch
+/home/luca/eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/oop18-passeri-mattia-stefanini-andrea-krustytouch - assemble.launch
+/home/luca/.p2/pool/plugins/org.eclipse.equinox.p2.tests_1.7.700.v20190807-0737/testData/referenceArtifactRepo/test1 Reference.jar
+/home/luca/.p2/pool/plugins/org.eclipse.equinox.p2.tests_1.7.700.v20190807-0737/testData/testRepos/updateSite/features/Better Undo_Example_1.0.2.jar
+/home/luca/.p2/pool/plugins/org.eclipse.equinox.p2.tests_1.7.700.v20190807-0737/testData/provisioningContextTests/A/features/Better Undo_Example_1.0.2.jar
+/home/luca/VirtualBox VMs/Debian 10/Debian 10.vdi
+/home/luca/VirtualBox VMs/Debian 10/Debian 10.vbox
+/home/luca/VirtualBox VMs/Debian 10/Debian 10.vbox-prev
+/etc/NetworkManager/system-connections/Connessione via cavo 2
+/etc/NetworkManager/system-connections/Connessione via cavo 1
+/etc/NetworkManager/system-connections/iPhone di Luca
+/etc/NetworkManager/system-connections/iPhone di Luca-d70c9866-065a-4e22-8da7-8ca1ba3f849c
+/lib/firmware/brcm/brcmfmac43430a0-sdio.ONDA-V80 PLUS.txt
+/lib/firmware/brcm/brcmfmac43455-sdio.MINIX-NEO Z83-4.txt
+/usr/share/fonts/truetype/roboto-slab/Apache License.txt
+/usr/share/fonts/opentype/fira/SIL Open Font License.txt
+/usr/share/fonts/3270/3270 Narrow Nerd Font Complete Windows Compatible.ttf
+/usr/share/fonts/3270/3270 Narrow Nerd Font Complete Mono Windows Compatible.otf
+/usr/share/fonts/3270/3270 Narrow Nerd Font Complete Mono.otf
+/usr/share/fonts/3270/3270-Medium Nerd Font Complete Mono.ttf
+/usr/share/fonts/3270/3270 Semi-Narrow Nerd Font Complete.otf
+/usr/share/fonts/3270/3270 Semi-Narrow Nerd Font Complete Mono Windows Compatible.otf
+/usr/share/fonts/3270/3270-Medium Nerd Font Complete Windows Compatible.ttf
+/usr/share/fonts/3270/3270 Semi-Narrow Nerd Font Complete.ttf
+/usr/share/fonts/3270/3270 Narrow Nerd Font Complete Mono.ttf
+/usr/share/fonts/3270/3270-Medium Nerd Font Complete Mono.otf
+/usr/share/fonts/3270/3270 Narrow Nerd Font Complete.otf
+/usr/share/fonts/3270/3270 Semi-Narrow Nerd Font Complete Windows Compatible.otf
+/usr/share/fonts/3270/3270 Semi-Narrow Nerd Font Complete Mono.ttf
+/usr/share/fonts/3270/3270 Narrow Nerd Font Complete Mono Windows Compatible.ttf
+/usr/share/fonts/3270/3270-Medium Nerd Font Complete Mono Windows Compatible.otf
+/usr/share/fonts/3270/3270-Medium Nerd Font Complete.ttf
+/usr/share/fonts/3270/3270 Narrow Nerd Font Complete Windows Compatible.otf
+/usr/share/fonts/3270/3270 Narrow Nerd Font Complete.ttf
+/usr/share/fonts/3270/3270-Medium Nerd Font Complete Mono Windows Compatible.ttf
+/usr/share/fonts/3270/3270 Semi-Narrow Nerd Font Complete Mono.otf
+/usr/share/fonts/3270/3270 Semi-Narrow Nerd Font Complete Windows Compatible.ttf
+/usr/share/fonts/3270/3270 Semi-Narrow Nerd Font Complete Mono Windows Compatible.ttf
+/usr/share/fonts/3270/3270-Medium Nerd Font Complete.otf
+/usr/share/fonts/3270/3270-Medium Nerd Font Complete Windows Compatible.otf
+/usr/share/user-manager/avatars/bluesstyle/Alice in Wonderland.png
+/usr/share/user-manager/avatars/bluesstyle/Mowgli jungle book.png
+/usr/share/user-manager/avatars/bluesstyle/Leonardo da Vinci.png
+/usr/share/user-manager/avatars/bluesstyle/Grace Hopper.png
+/usr/share/user-manager/avatars/bluesstyle/Mahatma Gandhi.png
+/usr/share/user-manager/avatars/bluesstyle/Ada Lovelace.png
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Yellow Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Green.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Steel No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Blue No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Yellow No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Blue.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Yellow No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Red No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Yellow No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Yellow No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Steel No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Yellow No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Yellow Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Green No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Green.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Yellow.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Green No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Green No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Green No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Green No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Steel No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Red.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Red No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Blue.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Blue No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Yellow Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Steel No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Steel Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Blue No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Green Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Steel Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Green Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Yellow.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Yellow No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Steel.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Green Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Green No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Steel Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Blue No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Green No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Red No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Blue Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Blue No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Red.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Red Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Yellow No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Steel.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Green.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Blue Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Steel No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Blue Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Red.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Yellow No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Blue Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Blue No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Steel No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Steel No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Yellow Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Red No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Red No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Red Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Green No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Blue No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Blue.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Green.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Blue No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Red No Names Alt.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Green Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Yellow.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Red on Steel Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Blue.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Yellow.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Steel on Red Alternating.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Green on Steel No Names.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Steel.css
+/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources/Variants/Blue on Steel.css
+/usr/share/cmake-3.10/Help/generator/Eclipse CDT4.rst
+/usr/share/cmake-3.10/Help/generator/NMake Makefiles.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 7.rst
+/usr/share/cmake-3.10/Help/generator/MinGW Makefiles.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 8 2005.rst
+/usr/share/cmake-3.10/Help/generator/Watcom WMake.rst
+/usr/share/cmake-3.10/Help/generator/NMake Makefiles JOM.rst
+/usr/share/cmake-3.10/Help/generator/Unix Makefiles.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 12 2013.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 9 2008.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 7 .NET 2003.rst
+/usr/share/cmake-3.10/Help/generator/Borland Makefiles.rst
+/usr/share/cmake-3.10/Help/generator/Green Hills MULTI.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 10 2010.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 6.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 15 2017.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 14 2015.rst
+/usr/share/cmake-3.10/Help/generator/Visual Studio 11 2012.rst
+/usr/share/cmake-3.10/Help/generator/Sublime Text 2.rst
+/usr/share/cmake-3.10/Help/generator/MSYS Makefiles.rst
+/usr/share/marble/data/maps/earth/openstreetmap/The World.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Eiffel Tower.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Klyuchevskaya Sopka.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Dunnottar Castle.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Maree Man.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Death Valley.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Palm Jumeirah.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Moscow Kremlin.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Desert breath.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Kheops Pyramid.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Church of the Holy Sepulchre.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Shuttle Landing Facility.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/St Peter's Basilica.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/The Great Wall of China.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Palace Het Loo.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Russell Square.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Sydney Opera House.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Nazca Lines.jpg
+/usr/share/marble/data/maps/earth/openstreetmap/Taj Mahal.jpg
+/usr/share/example-content/Ubuntu_Free_Culture_Showcase/Jenyfa Duncan - I Don't Know (original).opus
+/usr/share/example-content/Ubuntu_Free_Culture_Showcase/Alberto Mardegan - Selfie del futuro.ogv
+/usr/lib/python3/dist-packages/setuptools/script (dev).tmpl
+/usr/lib/python3/dist-packages/setuptools/command/launcher manifest.xml
+/usr/lib/x86_64-linux-gnu/espeak-ng-data/voices/!v/Mr serious
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v5.0/SupportedFrameworks/.NET Framework 4.6.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v5.0/SupportedFrameworks/Windows Universal 10.0.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v5.0/SupportedFrameworks/ASP.NET Core 1.0.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile5/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile5/SupportedFrameworks/.NET Framework 4.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile5/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile37/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile37/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile37/SupportedFrameworks/.NET Framework 4.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile37/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile147/SupportedFrameworks/.NET Framework 4.0.3.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile147/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile147/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile147/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile147/SupportedFrameworks/Windows Phone 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile147/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile42/SupportedFrameworks/.NET Framework 4.0.3.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile42/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile42/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile42/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile6/SupportedFrameworks/.NET Framework 4.0.3.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile6/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile6/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile344/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile344/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile344/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile344/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile344/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile336/SupportedFrameworks/.NET Framework 4.0.3.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile336/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile336/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile336/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile336/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile328/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile328/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile328/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile328/SupportedFrameworks/.NET Framework 4.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile328/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile47/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile47/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile47/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile47/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile225/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile225/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile225/SupportedFrameworks/.NET Framework 4.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile225/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile24/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile24/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile19/SupportedFrameworks/.NET Framework 4.0.3.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile19/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile14/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile14/SupportedFrameworks/.NET Framework 4.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile92/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile92/SupportedFrameworks/.NET Framework 4.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile92/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile136/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile136/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile136/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile136/SupportedFrameworks/.NET Framework 4.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile136/SupportedFrameworks/Windows Phone 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile136/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile158/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile158/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile158/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile158/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile158/SupportedFrameworks/Windows Phone 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile158/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile102/SupportedFrameworks/.NET Framework 4.0.3.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile102/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile102/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile240/SupportedFrameworks/.NET Framework 4.0.3.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile240/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile240/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile240/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile255/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile255/SupportedFrameworks/Silverlight 5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile255/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.0/Profile/Profile255/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile78/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile78/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile78/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile78/SupportedFrameworks/Windows Phone 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile78/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile49/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile49/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile49/SupportedFrameworks/Windows Phone 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile259/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile259/SupportedFrameworks/Windows Phone Silverlight 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile259/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile259/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile7/SupportedFrameworks/Windows Store apps (Windows 8).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile7/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile7/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile111/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile111/SupportedFrameworks/.NET Framework 4.5.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.5/Profile/Profile111/SupportedFrameworks/Windows 8.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.6/Profile/Profile44/SupportedFrameworks/Windows 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.6/Profile/Profile44/SupportedFrameworks/.NET Framework 4.5.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.6/Profile/Profile44/SupportedFrameworks/Windows Store apps (Windows 8.1).xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.6/Profile/Profile151/SupportedFrameworks/Windows Phone 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.6/Profile/Profile151/SupportedFrameworks/Windows 8.1.xml
+/usr/lib/mono/xbuild-frameworks/.NETPortable/v4.6/Profile/Profile151/SupportedFrameworks/.NET Framework 4.5.1.xml
+/usr/lib/python2.7/dist-packages/setuptools/script (dev).tmpl
+/usr/lib/python2.7/dist-packages/setuptools/command/launcher manifest.xml
+/snap/pycharm-community/172/plugins/textmate/lib/bundles/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
+/snap/pycharm-community/169/plugins/textmate/lib/bundles/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
+/snap/vscode/89/usr/share/code/resources/app/extensions/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
+/snap/vscode/93/usr/share/code/resources/app/extensions/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
+/var/lib/flatpak/app/org.inkscape.Inkscape/x86_64/stable/351ad9649e37ddb2e9fb2cd13d63038f243838c003e64bce972ca687abb5f353/files/lib/python2.7/site-packages/setuptools/script (dev).tmpl
+/var/lib/flatpak/app/org.inkscape.Inkscape/x86_64/stable/351ad9649e37ddb2e9fb2cd13d63038f243838c003e64bce972ca687abb5f353/files/lib/python2.7/site-packages/setuptools/command/launcher manifest.xml
+/var/lib/flatpak/runtime/org.gnome.Platform/x86_64/3.34/c71ff4eca043963072f57479f28fb9094ff1c93e54f26d9e6a6f86c1c116c9af/files/lib/python3.7/site-packages/setuptools/script (dev).tmpl
+/var/lib/flatpak/runtime/org.gnome.Platform/x86_64/3.34/c71ff4eca043963072f57479f28fb9094ff1c93e54f26d9e6a6f86c1c116c9af/files/lib/python3.7/site-packages/setuptools/command/launcher manifest.xml
