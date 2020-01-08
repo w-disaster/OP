@@ -29,5 +29,5 @@ int main(){
     }
 
     pthread_exit(NULL);
-    return(0);
+/*    return(0);*/
 }

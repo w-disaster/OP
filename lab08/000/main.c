@@ -5,7 +5,6 @@
 
 
 #define SIZE 50
-#define MAX_THREADS 1000
 
 void* func(void *arg){
     printf("%d\n", *((int*)arg));
@@ -18,7 +17,7 @@ int main(){
     pthread_t tid;
     char msg[SIZE];
 
-    for(i=0;MAX_THREADS;i++){
+    for(i=0;1;i++){
         count=(int*)malloc(sizeof(int));
         if(count==NULL){
             printf("No space left on heap");
@@ -29,13 +28,10 @@ int main(){
         ret=pthread_create(&tid, NULL, func, (void*)count);
         if(ret){
             strerror_r(ret, msg, SIZE);
-            printf("An error occurred in pthread_create\n");
+            printf("Error: %s\n", msg);
             exit(1);
         }
     }
-
-
-
     pthread_exit(NULL);
     return 0;
 }
